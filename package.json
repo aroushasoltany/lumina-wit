@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mantine/dates": "^6.0.20",
+    "@mantine/form": "^6.0.20"
+  }
+}
